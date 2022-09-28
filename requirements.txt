@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+tensorflow  
+datetime
+streamlit
+matplotlib 
+pillow 
+xgboost
